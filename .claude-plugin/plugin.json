@@ -1,0 +1,9 @@
+{
+  "name": "brainstorm",
+  "displayName": "Brainstorm",
+  "version": "0.1.0",
+  "description": "A structured-but-adaptive one-on-one brainstorm mode: fixed question skeleton + adaptive follow-ups over AskUserQuestion, mid-session web research without permission prompts, parking-lot evaluation, and a dual exit artifact. Designed for an AuDHD thinking partner - the agent carries the executive load.",
+  "author": { "name": "Bar Moshe" },
+  "license": "MIT",
+  "keywords": ["brainstorm", "ideation", "askuserquestion", "audhd", "facilitation"]
+}

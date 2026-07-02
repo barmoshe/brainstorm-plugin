@@ -1,0 +1,12 @@
+{
+  "name": "brainstorm",
+  "description": "Single-plugin marketplace for the brainstorm plugin.",
+  "owner": { "name": "Bar Moshe" },
+  "plugins": [
+    {
+      "name": "brainstorm",
+      "description": "Structured-but-adaptive one-on-one brainstorm mode (AuDHD-first): AskUserQuestion skeleton + adaptive probes, auto-approved mid-session research, parking lot, dual exit artifact.",
+      "source": "./"
+    }
+  ]
+}
