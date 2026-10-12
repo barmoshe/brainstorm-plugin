@@ -105,3 +105,7 @@ evidence. Claims that failed verification were excluded from the design.
 ## License
 
 MIT
+
+---
+
+Built by [Bar Moshe](https://bar-builds.com/?src=gh-brainstorm)
